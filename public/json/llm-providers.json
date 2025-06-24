@@ -1,0 +1,124 @@
+{
+  "providers": [
+    {
+      "name": "google",
+      "baseUrl": "https://generativelanguage.googleapis.com/v1beta/openai/",
+      "apiKey": null,
+      "models": [
+        {
+          "name": "gemini-2.0-flash",
+          "selected": true
+        },
+        {
+          "name": "gemini-1.5-flash",
+          "selected": false
+        },
+        {
+          "name": "gemini-1.5-pro",
+          "selected": false
+        },
+        {
+          "name": "gemini-2.5-pro-exp-03-25",
+          "selected": false
+        },
+                {
+          "name": "gemini-2.5-flash-preview-04-17",
+          "selected": false
+        }
+      ],
+      "selected": true
+    },
+    {
+      "name": "openai",
+      "baseUrl": "https://api.openai.com/v1/",
+      "apiKey": null,
+      "models": [
+        {
+          "name": "gpt-4o",
+          "selected": false
+        },
+        {
+          "name": "gpt-4o-mini",
+          "selected": true
+        }
+      ],
+      "selected": false
+    },
+    {
+      "name": "deepseek",
+      "baseUrl": "https://api.deepseek.com/v1/",
+      "apiKey": null,
+      "models": [
+        {
+          "name": "deepseek-chat",
+          "selected": true
+        }
+      ],
+      "selected": false
+    },
+    {
+      "name": "novita.ai",
+      "baseUrl": "https://api.novita.ai/v3/openai/",
+      "apiKey": null,
+      "models": [
+        {
+          "name": "deepseek/deepseek_v3",
+          "selected": true
+        }
+      ],
+      "selected": false
+    },
+    {
+      "name": "openrouter",
+      "baseUrl": "https://openrouter.ai/api/v1/",
+      "apiKey": null,
+      "models": [
+        {
+          "name": "qwen/qwen-2.5-72b-instruct",
+          "selected": true
+        },
+        {
+          "name": "deepseek/deepseek-coder-v2",
+          "selected": false
+        },
+        {
+          "name": "xai/xai-grok-3",
+          "selected": false
+        },
+        {
+          "name": "meta/llama-3.1-405b-instruct",
+          "selected": false
+        },
+        {
+          "name": "openrouter/quasar-alpha",
+          "selected": false
+        }
+      ],
+      "selected": false
+    },
+    {
+      "name": "openrouter:free",
+      "baseUrl": "https://openrouter.ai/api/v1/",
+      "apiKey": null,
+      "models": [
+        {
+          "name": "meta/llama-3.1-8b-instruct:free",
+          "selected": true
+        },
+        {
+          "name": "mistral/mixtral-8x7b-instruct:free",
+          "selected": false
+        },
+        {
+          "name": "google/gemma-2-9b-it:free",
+          "selected": false
+        },
+        {
+          "name": "xai/xai-grok-2-mini:free",
+          "selected": false
+        }
+      ],
+      "selected": false
+    }
+  ]
+}
