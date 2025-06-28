@@ -24,6 +24,7 @@ Xuất nội dung phản hồi chính của bạn ở đây, bao gồm hội tho
 <events>
 [Sự kiện chính 1, tuyên bố ngắn gọn] --> [Sự kiện chính 2, tuyên bố ngắn gọn] --> [Sự kiện chính 3, tuyên bố ngắn gọn] --> [Sự kiện chính 4, tuyên bố ngắn gọn] --> [...]
 </events>
-</outputFormat>
 
 Lưu ý: Bạn phải tuân thủ nghiêm ngặt định dạng thẻ XML trên. Tất cả nội dung phải được chứa trong thẻ đầu ra.
+
+</outputFormat>
