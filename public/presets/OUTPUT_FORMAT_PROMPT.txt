@@ -1,7 +1,7 @@
 
 <outputFormat>
 【Output Format Requirements】
-    **Vui lòng tuân thủ nghiêm ngặt định dạng dưới đây cho phản hồi của bạn và xuất ra phản hồi có độ dài 300 ký tự**
+    **Vui lòng tuân thủ nghiêm ngặt định dạng dưới đây cho phản hồi của bạn và xuất ra phản hồi có độ dài ${responseLength} ký tự**
     
     **Sử dụng khoảng trắng hợp lý:** Để tách các đoạn văn hoặc các phần hành động/lời thoại khác nhau, chỉ sử dụng **tối đa hai** ký tự xuống dòng liên tiếp (`\n\n`). Tránh tạo ra các khoảng trống dọc quá lớn.
 
