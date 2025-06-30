@@ -15,7 +15,7 @@ Dựa vào lịch sử hội thoại trên, hãy điền thông tin vào tất c
 
 **QUY TẮC PHÂN TÍCH:**
 
-1.  **description (Mô tả):** Dựa vào các chi tiết được đề cập, hãy viết một đoạn mô tả ngắn gọn về ngoại hình, vai trò và bối cảnh của nhân vật. Nếu không có thông tin, hãy suy luận một cách hợp lý nhất (ví dụ: "Một người lính gác bí ẩn với vết sẹo trên mặt").
+1.  **description (Mô tả):** Dựa vào các chi tiết được đề cập, hãy viết một đoạn mô tả ngắn gọn về ngoại hình, vai trò và bối cảnh của nhân vật. Nếu không có thông tin, hãy suy luận một cách hợp lý nhất (ví dụ: "Một người lính gác bí ẩn với vết sẹo trên mặt hoặc 1 con rắn với 2 sừng trên đầu có thể bốc lửa.").
 2.  **personality (Tính cách):** Tổng hợp các đặc điểm tính cách của nhân vật qua lời nói và hành động của họ. Sử dụng các tính từ mô tả mạnh mẽ. Ví dụ: "Kiêu ngạo, mỉa mai nhưng ẩn sâu bên trong là một trái tim nhân hậu. Luôn giữ lời hứa và có một bộ quy tắc danh dự riêng."
 3.  **scenario (Bối cảnh):** Mô tả bối cảnh hoặc tình huống mà nhân vật này thường xuất hiện hoặc được giới thiệu lần đầu trong đoạn hội thoại. Ví dụ: "Tại một quán rượu ồn ào ở thành phố cảng, vào một đêm mưa."
 4.  **first_mes (Lời chào đầu tiên):** Tạo ra một câu thoại mở đầu hoàn toàn mới, nhưng phải thể hiện được đúng bản chất, tính cách và vai trò của nhân vật vừa được phân tích. Câu thoại này sẽ được dùng để bắt đầu một cuộc trò chuyện mới với nhân vật này. Nó phải hấp dẫn và khơi gợi sự tò mò.
@@ -25,7 +25,7 @@ Dựa vào lịch sử hội thoại trên, hãy điền thông tin vào tất c
 
 ```json
 {
-  "name": "{{character_name_to_extract}}",
+  "name": "{{character_name_to_extract}} | Ext",
   "description": "Mô tả ngoại hình, vai trò, và bối cảnh chung của nhân vật. (Khoảng 2-3 câu)",
   "personality": "Tổng hợp các đặc điểm tính cách chính, phong thái, và động lực của nhân vật.",
   "scenario": "Mô tả bối cảnh, địa điểm, và tình huống ban đầu mà nhân vật xuất hiện.",
