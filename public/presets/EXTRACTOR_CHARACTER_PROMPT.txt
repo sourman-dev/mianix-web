@@ -33,7 +33,7 @@ Dựa vào lịch sử hội thoại trên, hãy điền thông tin vào TẤT C
 
 ```json
 {
-  "name": "{{character_name_to_extract}}",
+  "name": "{{character_name_to_extract}} | Ext",
   "description": "Mô tả ngoại hình, vai trò, và bối cảnh chung của nhân vật. (Khoảng 2-3 câu)",
   "personality": "Tổng hợp các đặc điểm tính cách chính, phong thái, và động lực của nhân vật.",
   "scenario": "Mô tả bối cảnh, địa điểm, và tình huống ban đầu mà nhân vật xuất hiện.",
