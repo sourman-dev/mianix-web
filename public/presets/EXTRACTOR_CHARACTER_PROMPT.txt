@@ -32,3 +32,4 @@ Dựa vào lịch sử hội thoại trên, hãy điền thông tin vào tất c
   "first_mes": "Một câu chào đầu tiên hoàn toàn mới, hấp dẫn, phản ánh đúng tính cách nhân vật để bắt đầu một cuộc trò chuyện mới.",
   "mes_example": "<dialogue example>\nMột câu thoại tiêu biểu của nhân vật...\n</dialogue example>\n\n<dialogue example>\nMột ví dụ khác về cách nhân vật nói chuyện...\n</dialogue example>"
 }
+```
